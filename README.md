@@ -1,11 +1,13 @@
-# Everyday One Motion - 20160317 "max( IFS Parallelotope, -Box )"  
+# Everyday One Motion - 20160317  
+
+"max( IFS Parallelotope, -Box )"  
 
 ![](20160317.gif)  
 
 JavaScript, WebGL, Raymarching  
 
 [Everyday One Motion](http://motions.work/motion/153)  
-[Demo Page](http://fms-cat.github.io/eom_20160317)  
+[Demo Page](http://fms-cat-eom.github.io/20160317)  
 
 ## max( IFS Parallelotope, -Box )  
 
